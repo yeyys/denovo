@@ -5,7 +5,7 @@ from threading import Thread
 clients = {}
 addresses = {}
 
-IP = '94.156.203.250'
+IP = '94.156.203.255'
 PORT = 4444
 BUFSIZ = 1024
 ADDR = (IP, PORT)
